@@ -1,5 +1,5 @@
 # Store-Sales---Time-Series-Forecasting
-In this project  the unit sales for thousands of items sold at different Favorita stores must be predicted.
+In this project  the unit sales for thousands of items sold at different Favorita stores must be predicted. In addition to products' previous sales and promotional activities, data about holidays, oil price are also available for this problem.
 
 Before starting the feature engineering, I've done some pre-preparations and then performed EDA to get some insights about original features and their interactions.
 
